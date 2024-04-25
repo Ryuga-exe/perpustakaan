@@ -7,7 +7,7 @@
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=laravel,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,php,mysql" /><br>
 </div>
 
 <h2 id="tentang">Konsep aplikasi</h2>
@@ -125,7 +125,7 @@ Dengan memenuhi prasyarat di atas, Anda akan memiliki lingkungan yang siap untuk
 <h2 id="installation">Cara Instalasi 💻</h2>
 
 <h3 id="develop-yourself"> Mengembangkan Sendiri</h3>
-1. Klona repositori
+1. clone repositori
 
 ```bash
 git clone https://github.com/Ryuga-exe/perpustakaan
