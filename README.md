@@ -120,7 +120,7 @@ prasyarat yang diperlukan untuk menginstal dan menjalankan aplikasi web:
    - Setelah menginstal Node.js, NPM akan diinstal secara otomatis.
    - Pastikan Anda dapat mengakses Node.js dan NPM melalui baris perintah dengan menjalankan perintah `node -v` dan `npm -v` di terminal.
 
-Dengan memenuhi prasyarat di atas, Anda akan memiliki lingkungan yang siap untuk menginstal dan menjalankan aplikasi web. Pastikan Anda mengikuti instruksi instalasi dan konfigurasi yang disediakan oleh setiap komponen untuk memastikan semuanya bekerja dengan baik.
+Dengan memenuhi prasyarat di atas, Anda akan memiliki lingkungan yang siap untuk menginstal dan menjalankan aplikasi web. Pastikan Anda mengikuti instruksi instalasi dan konfigurasi yang disediakan di bawah ini
 
 <h2 id="installation">Cara Instalasi 💻</h2>
 
