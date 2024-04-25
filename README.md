@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&random=false&width=435&lines=Halo%F0%9F%91%8B+perkenalkan+saya;mohamad+robby+saputra+12+PPL+1;Membuat+projek+web+perpustakaan" alt="Typing SVG" /></a>
 </h1>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools yangg digunakan ⚒️</h2>
+<h2 align="left">⚒️Languages-Frameworks-Tools yangg digunakan⚒️</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=laravel,bootstrap,html,css,vscode,github,git" />
