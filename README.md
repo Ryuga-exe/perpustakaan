@@ -12,7 +12,7 @@
 
 <h2 id="tentang">Konsep aplikasi</h2>
 
-Sebuah platform perpustakaan digital yang memukau, menampilkan desain modern yang teratur. Halaman ini menonjolkan bagian utama dengan deskripsi layanan, ulasan, dan navigasi lokasi yang mudah digunakan.
+Sebuah web perpustakaan digital, menampilkan desain yang teratur. Halaman ini menonjolkan bagian utama dengan fungsionalitas peminjaman dan ulasan buku yang mudah digunakan.
 
 <h2 id="fitur">Fitur</h2>
 
@@ -84,13 +84,45 @@ Tabel Failed_Jobs,Personal_access_tokens,Password_reset_tokens karena itu bawaan
 
 <h2 id="pre-requisite"> Prasyarat</h2>
 
-<p>Berikut adalah prasyarat yang diperlukan untuk menginstal dan menjalankan aplikasi.</p>
+prasyarat yang diperlukan untuk menginstal dan menjalankan aplikasi web:
 
--   PHP 8.2.8 & Web Server (Apache, Lighttpd, atau Nginx)
--   Database (MariaDB dengan v11.0.3 atau PostgreSQL)
--   Web Browser (Chrome, Firefox, Opera, dll)
+1. PHP 8.2.8 & Web Server:
+   - Unduh dan instal versi PHP 8.2.8 sesuai dengan sistem operasi Anda. Instruksi instalasi lengkap tersedia di situs resmi PHP (php.net).
+   - Pilih salah satu web server yang mendukung PHP, seperti Apache, Lighttpd, atau Nginx.
+   - Ikuti instruksi instalasi yang tersedia di situs web masing-masing web server untuk menginstal dan mengkonfigurasi server web.
 
-<h2 id="installation">💻 Instalasi</h2>
+2. Database:
+   - Pilih dan instal database yang sesuai dengan kebutuhan aplikasi, seperti MariaDB versi 11.0.3 atau PostgreSQL.
+   - Unduh installer database dari situs web resmi dan ikuti instruksi instalasi yang disediakan.
+   - Konfigurasi pengaturan database seperti nama pengguna, kata sandi, dan nama database yang akan digunakan oleh aplikasi.
+
+3. Web Browser:
+   - Pastikan Anda memiliki web browser yang kompatibel dengan aplikasi, seperti Chrome, Firefox, Opera, atau browser modern lainnya.
+   - Versi terbaru dari web browser direkomendasikan untuk mendapatkan pengalaman pengguna terbaik.
+
+4. Konfigurasi PHP:
+   - Setelah menginstal PHP, Anda perlu mengkonfigurasi file php.ini sesuai kebutuhan aplikasi.
+   - Buka file php.ini dan atur pengaturan seperti koneksi database, batasan memori, dan pengaturan lainnya.
+   - Aktifkan ekstensi PHP yang diperlukan oleh aplikasi, seperti ekstensi PDO untuk koneksi database.
+
+5. Konfigurasi Web Server:
+   - Setelah menginstal web server, Anda perlu mengkonfigurasi server virtual atau file konfigurasi web server agar dapat mengarahkan permintaan ke direktori aplikasi yang benar.
+   - Konfigurasikan host virtual atau aturan rute yang sesuai dengan web server yang digunakan.
+
+6. Instal Composer:
+   - Composer adalah manajer paket PHP yang digunakan untuk mengelola dependensi aplikasi.
+   - Unduh dan instal Composer dari situs web resmi (getcomposer.org) sesuai dengan instruksi yang disediakan.
+   - Pastikan Anda menambahkan direktori instalasi Composer ke dalam variabel lingkungan PATH agar dapat mengakses Composer dari mana saja dalam sistem.
+
+7. Instal Node.js dan NPM:
+   - Karena pengembangan web menggunakan Laravel Mix, Anda perlu menginstal Node.js dan NPM (Node Package Manager).
+   - Unduh dan instal Node.js dari situs web resmi (nodejs.org) sesuai dengan instruksi yang disediakan.
+   - Setelah menginstal Node.js, NPM akan diinstal secara otomatis.
+   - Pastikan Anda dapat mengakses Node.js dan NPM melalui baris perintah dengan menjalankan perintah `node -v` dan `npm -v` di terminal.
+
+Dengan memenuhi prasyarat di atas, Anda akan memiliki lingkungan yang siap untuk menginstal dan menjalankan aplikasi web. Pastikan Anda mengikuti instruksi instalasi dan konfigurasi yang disediakan oleh setiap komponen untuk memastikan semuanya bekerja dengan baik.
+
+<h2 id="installation">Cara Instalasi 💻</h2>
 
 <h3 id="develop-yourself"> Mengembangkan Sendiri</h3>
 1. Klona repositori
