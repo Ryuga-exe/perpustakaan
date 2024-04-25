@@ -125,7 +125,7 @@ Dengan memenuhi prasyarat di atas, Anda akan memiliki lingkungan yang siap untuk
 <h2 id="installation">Cara Instalasi 💻</h2>
 
 <h3 id="develop-yourself"> Mengembangkan Sendiri</h3>
-1. clone repositori
+1. Clone repositori
 
 ```bash
 git clone https://github.com/Ryuga-exe/perpustakaan
