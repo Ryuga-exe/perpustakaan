@@ -1,6 +1,14 @@
-<h1 align="center">Projek ukk perpustakaan by robby</h1>
 
----
+<h1 align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&random=false&width=435&lines=Halo%F0%9F%91%8B+perkenalkan+saya;mohamad+robby+saputra+12+PPL+1;Membuat+projek+web+perpustakaan" alt="Typing SVG" /></a>
+</h1>
+
+<h2 align="left">⚒️ Languages-Frameworks-Tools yangg digunakan ⚒️</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mysql" /><br>
+</div>
 
 <h2 id="tentang">Konsep aplikasi</h2>
 
@@ -117,13 +125,6 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ```
-<br>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools yangg digunakan ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mysql" /><br>
-</div>
 
 
